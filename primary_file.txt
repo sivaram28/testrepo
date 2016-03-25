@@ -5,4 +5,10 @@ siva
 
 new change
 
+<<<<<<< HEAD
 test --- branch
+=======
+test
+
+2nd branch added
+>>>>>>> new_feature2
